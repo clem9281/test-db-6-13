@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "faker": "^4.1.0",
     "helmet": "^3.18.0",
-    "knex": "^0.17.5",
+    "knex": "^2.4.0",
     "knex-cleaner": "^1.1.4",
     "knex-migrate": "^1.7.2",
     "sqlite3": "^4.0.9"
